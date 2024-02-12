@@ -5,8 +5,7 @@ var youngest = students[0];
         youngest = students[i]
     }
 }
-console.log("This student youngest of other student");
-console.log(youngest);
+console.log(youngest.name);
 }
 
 var students = [{name:"Noor", age:23},
